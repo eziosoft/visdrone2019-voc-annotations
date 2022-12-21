@@ -1,0 +1,27 @@
+
+<annotation>
+	<folder>annotations</folder>
+	<filename>0000370_02000_d_0000254.jpg</filename>
+	<path>/content/datasets/VisDrone/VisDrone2019-DET-test-dev/images/0000370_02000_d_0000254.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>765</width>
+		<height>1360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>188</ymin>
+			<xmax>412</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+	</annotation>
