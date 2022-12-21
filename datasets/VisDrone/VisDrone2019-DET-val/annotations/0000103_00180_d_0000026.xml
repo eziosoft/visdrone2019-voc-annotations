@@ -1,0 +1,27 @@
+
+<annotation>
+	<folder>annotations</folder>
+	<filename>0000103_00180_d_0000026.jpg</filename>
+	<path>/content/datasets/VisDrone/VisDrone2019-DET-val/images/0000103_00180_d_0000026.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>765</width>
+		<height>1360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>490</xmin>
+			<ymin>129</ymin>
+			<xmax>574</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+	</annotation>
