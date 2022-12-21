@@ -1,0 +1,66 @@
+
+<annotation>
+	<folder>annotations</folder>
+	<filename>9999953_00000_d_0000175.jpg</filename>
+	<path>/content/datasets/VisDrone/VisDrone2019-DET-train/images/9999953_00000_d_0000175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>788</width>
+		<height>1400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>369</ymin>
+			<xmax>473</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+	
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>225</ymin>
+			<xmax>468</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+	
+	<object>
+		<name>Bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>753</xmin>
+			<ymin>239</ymin>
+			<xmax>844</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+	
+	<object>
+		<name>Pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1087</xmin>
+			<ymin>108</ymin>
+			<xmax>1093</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+	</annotation>
